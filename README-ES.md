@@ -4,7 +4,7 @@
 
 ## Descripción
 
-El proyecto Pacmen es parte de la clase de la Semana 7 en el [Certificado Profesional en Programacion: : Desarrollo Full Stack con MERN](https://latam.emeritus.org/careers/course-coding-instructors-for-mit-xpro-professional-certificate-in-coding-full-stack-development-with-mern/). En este proyecto, se muestra como se usa Javascript para crear el efecto de la apertura y cierre de la boca. Este objeto es inyectado por un Factory Pattern dentro del DOM de forma dinamica. Ademas se tiene el comportamiendo de movimiento segun la aceleracion de la gravedad.
+El proyecto Pacmen es parte de la clase de la Semana 7 en el [Certificado Profesional en Programacion: : Desarrollo Full Stack con MERN](https://latam.emeritus.org/careers/course-coding-instructors-for-mit-xpro-professional-certificate-in-coding-full-stack-development-with-mern/). En este proyecto, se muestra como se usa Javascript para crear el efecto de la apertura y cierre de la boca. Este objeto es inyectado por un Factory Pattern dentro del DOM de forma dinamica. Ademas se tiene el comportamiendo de movimiento dynamico.
 
 ### Licencia: [MIT License](https://opensource.org/licenses/MIT)
 
