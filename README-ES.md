@@ -8,6 +8,8 @@ El proyecto Pacmen es parte de la clase de la Semana 7 en el [Certificado Profes
 
 ### Licencia: [MIT License](https://opensource.org/licenses/MIT)
 
+## Descargar y Ejecutar
+
 Puedes descargar el codigo fuente clonando este repositorio con Git.
 
 1. Abre tu aplicaciøn favorita para la terminal de comandos, como: Terminal, Command, Console, iTerm2, u otros.
