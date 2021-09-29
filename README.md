@@ -3,7 +3,7 @@
 :ceuta_melilla: [README.md en Español](README-ES.md)
 # Description
 
-The Pacmen Project is part of assignments for the Week 7 in the [Professional Certificate in Coding: Full Stack Development with MERN](https://xpro.mit.edu/programs/program-v1:xPRO+PCCx+R1/). In this project, I use javascript to show how the Pacman opens and closes his mouth using. This object is injected through a Factory Pattern into DOM and the speed can be updated dynamically.
+The Pacmen Project is part of assignments for the Week 7 in the [Professional Certificate in Coding: Full Stack Development with MERN](https://xpro.mit.edu/programs/program-v1:xPRO+PCCx+R1/). In this project, I use javascript to show how the Pacman opens and closes his mouth. This object is injected through a Factory Pattern into DOM and the speed can be updated dynamically.
 
 ### License: [MIT License](https://opensource.org/licenses/MIT)
 ## How to Run
